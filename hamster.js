@@ -1,6 +1,6 @@
 // hamster.js
 
-// 터미널에 출력될 아주 귀여운 햄스터 모양 문자열입니다.
+// 고양이 친구 햄스터
 const hamster = `
   __      __
  /  \\____/  \\
@@ -14,5 +14,5 @@ const hamster = `
 |____________|
 `;
 
-// console.log() 함수를 사용해 햄스터를 터미널에 출력합니다.
+// 출력
 console.log(hamster);
